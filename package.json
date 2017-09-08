@@ -1,0 +1,19 @@
+{
+  "name": "js-playground",
+  "version": "0.0.1",
+  "description": "playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shoota/js-playground.git"
+  },
+  "author": "shoota",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shoota/js-playground/issues"
+  },
+  "homepage": "https://github.com/shoota/js-playground#readme"
+}
